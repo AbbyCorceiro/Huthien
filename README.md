@@ -1,6 +1,10 @@
 ### <h1 align = "center">Hi~ I'm Abigail H. Corceiro</h1>
 <h2 align = "left">-Unity Dev Trainee-</h2>
-
+<div>About Me:
+  <p align = "left">
+    I'm currently learning game development with Unity!
+  </p>
+</div>
 <div align = "left">
   
   <br>![V-Gale GitHub stats](https://github-readme-stats.vercel.app/api?username=V-Gale&show_icons=true&theme=chartreuse-dark)</br>
