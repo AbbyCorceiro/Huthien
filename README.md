@@ -4,9 +4,9 @@
   <p align = "left">
     I'm currently learning game development with Unity!
   </p>
-  
-  
 </div>
+
+
 <div align = "left">
   
   <br>![V-Gale GitHub stats](https://github-readme-stats.vercel.app/api?username=V-Gale&show_icons=true&theme=chartreuse-dark)</br>
