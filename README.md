@@ -1,5 +1,5 @@
 ### <h1 align = "center">Hi~ I'm Abigail H. Corceiro</h1>
-<h2 align = "left">-Unity Trainee Developer-</h2>
+<h2 align = "left">-Trainee Game Developer-</h2>
 <div>About Me:
   <p align = "left">
     I'm currently learning game development with Unity!
