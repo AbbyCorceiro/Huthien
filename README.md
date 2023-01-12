@@ -8,7 +8,6 @@
 
 
 <div align = "left">
-  <br>[V-Gale GitHub stats](https://github-readme-stats.vercel.app/api?username=V-Gale&show_icons=true&theme=chartreuse-dark)</br>
   <br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v-gale&theme=chartreuse-dark" alt="v-gale"/></p></br>
 </div>
 
