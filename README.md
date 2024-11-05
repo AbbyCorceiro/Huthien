@@ -2,6 +2,11 @@
 
 <h1 align = "center">Hi~ I'm Hu</h1>
 <h2 align = "center">-Game Developer-</h2>
+
+<div align="center" width="50">
+  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+</div>
+
 <div>About Me
   <p align = "left">
     I'm a selftaught game developer who enjoys playing and making games. I made little projects and im still working in new ones! Feel free to check it out
@@ -32,6 +37,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...![gamedev](https://github.com/user-attachments/assets/a0dc806b-7320-4c1a-ab36-b61aea721db2)
+![gamedev](https://github.com/user-attachments/assets/cddf1c93-d936-47f1-b9e2-165fa22b3af9)
+
 - ⚡ Fun fact: ...
 -->
