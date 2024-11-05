@@ -4,6 +4,7 @@
 <h2 align = "center">-Game Developer-</h2>
 
 <div align="center" width="50">
+  <image src="https://github.com/Huthien/Hu/blob/main/custom/gamedev.gif?raw=true" alt= "I'm a game developer!"/>
 </div>
 
 <div>About Me
