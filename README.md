@@ -1,8 +1,8 @@
 ### <h1 align = "center">Hi~ I'm Hu</h1>
-<h2 align = "left">-Game Developer-</h2>
-<div>About Me:
+<h2 align = "center">-Game Developer-</h2>
+<div>About Me
   <p align = "left">
-    I'm currently learning game development with Unity!
+    I'm a selftaught game developer who enjoys playing and making games. I made little projects and im still working in new ones! Feel free to check it out
   </p>
 </div>
 
@@ -20,7 +20,7 @@
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a><img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" width="40" height="40"> </a>
 
 <!--
-**V-Gale/V-Gale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Huthien/Hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
