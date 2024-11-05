@@ -1,4 +1,9 @@
-### <h1 align = "center">Hi~ I'm Hu</h1>
+### 
+
+<h1 
+  align = "center"
+  font-family = "Franklin Gothic Medium"
+  color: darkblue >Hi~ I'm Hu</h1>
 <h2 align = "center">-Game Developer-</h2>
 <div>About Me
   <p align = "left">
