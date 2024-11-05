@@ -1,8 +1,6 @@
 ### 
 
 <h1 align = "center">Hi~ I'm Hu</h1>
-<h2 align = "center">-Game Developer-</h2>
-
 <div align="center" width="50">
   <image src="https://github.com/Huthien/Hu/blob/main/custom/gamedev.gif?raw=true" alt= "I'm a game developer!"/>
 </div>
