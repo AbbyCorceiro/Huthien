@@ -4,12 +4,10 @@
 <div align="center" width="50">
   <image src="https://github.com/Huthien/Hu/blob/main/custom/gamedev.gif?raw=true" alt= "I'm a game developer!"/>
 </div>
-
-<div>About Me
+<img align="center" src="" width ="30"><b> |About Me|</b></img>
   <p align = "left">
     I'm a selftaught game developer who enjoys playing and making games. I made little projects and im still working in new ones! 👾⭐
   </p>
-</div>
 
 <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> |Skills|</b></img>
 
@@ -30,7 +28,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Blender-%23E87D0D?style=flat-square&logo=blender&logoColor=white">
   </div>
   
-- **Contact Me!**:
+<b> |Contact Me!|</b>
   <ul>
     <li>
        <a href="https://www.linkedin.com/in/abigail-corceiro/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20%3A%20Abigail%20Corceiro-%230A66C2?style=flat-square"></a> 
