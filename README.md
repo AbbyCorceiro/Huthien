@@ -29,12 +29,15 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/PixelStudio-hotpink?style=flat-square&logoColor=black">
     <img alt="Static Badge" src="https://img.shields.io/badge/Blender-%23E87D0D?style=flat-square&logo=blender&logoColor=white">
   </div>
+  
+- **Contact Me!**:
+  <ul>
+    <li>
+       <a href="https://www.linkedin.com/in/abigail-corceiro/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabigail-corceiro%2F"></a> 
+    </li>
+  </ul>
+   
 
-
-<p align="left">
-<h3 align = "left">You can contact me via:</h3>
-<a href="https://linkedin.com/in/www.linkedin.com/in/abigail-corceiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abigail-corceiro" height="30" width="40" /></a>
-</p>
 <!--
 **Huthien/Hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
