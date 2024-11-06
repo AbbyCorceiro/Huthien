@@ -35,6 +35,9 @@
     <li>
        <a href="https://www.linkedin.com/in/abigail-corceiro/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabigail-corceiro%2F"></a> 
     </li>
+    <li>
+      <a href="mailto:abbycorceiro@gmail.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto%3Aabbycorceiro%40gmail.com"></a>
+    </li>
   </ul>
    
 
