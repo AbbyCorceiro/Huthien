@@ -4,7 +4,8 @@
 <div align="center" width="50">
   <image src="https://github.com/Huthien/Hu/blob/main/custom/gamedev.gif?raw=true" alt= "I'm a game developer!"/>
 </div>
-<img align="center" src="" width ="30"><b> |About Me|</b></img>
+    
+<b> |About Me|</b></img>
   <p align = "left">
     I'm a selftaught game developer who enjoys playing and making games. I made little projects and im still working in new ones! 👾⭐
   </p>
