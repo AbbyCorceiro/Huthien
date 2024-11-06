@@ -4,13 +4,20 @@
 <div align="center" width="50">
   <image src="https://github.com/Huthien/Hu/blob/main/custom/gamedev.gif?raw=true" alt= "I'm a game developer!"/>
 </div>
-    
-<b> |About Me|</b>
 
-  <p align = "left">
-    I'm a selftaught game developer who enjoys playing and making games. I made little projects and im still working in new ones! 👾⭐
+<img align = "center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY0dTlsY2E2eXkzZWluaHB4dzZkOXhmenFmeDZmOGdrYjVtZDN5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jQnqvoABIwlM6039F8/giphy.webp" width ="25"><b> |About Me|</b></img>
+<ul>
+  <li>
+    <p align = "left">I'm a selftaught game developer who enjoys playing and making games. I made little projects and im still working in new ones! 👾⭐
   </p>
-
+  </li>
+<li>
+  <p align= "left">Currently learning GDScript.</p>
+</li>
+ <li>
+  <p align= "left">Mi Itch.io page: <a href= "https://huthien.itch.io" target= "_blank"><img align="center" alt="Static Badge" src="https://img.shields.io/badge/Huthien-%23FA5C5C?style=flat-square&logo=itchdotio&logoColor=white"></a></p>
+</li>
+</ul>
 <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> |Skills|</b></img>
 
 - **Languages**:
@@ -30,7 +37,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Blender-%23E87D0D?style=flat-square&logo=blender&logoColor=white">
   </div>
   
-<b> |Contact Me!|</b>
+<img align= "center" src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlxem9qcDY5MXAyY3FrcHlwOGkwNWRpNWUzM3ZsazBxazducmNzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PWBCZGqdulucLMDy5f/giphy.webp" width= "25"><b> |Contact Me!|</b></img>
   <ul>
     <li>
        <a href="https://www.linkedin.com/in/abigail-corceiro/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20%3A%20Abigail%20Corceiro-%230A66C2?style=flat-square"></a> 
