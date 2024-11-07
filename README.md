@@ -4,7 +4,7 @@
 <div align="center" width="50">
   <image align= "center" src="https://github.com/Huthien/Hu/blob/main/custom/gamedev.gif?raw=true" alt= "I'm a game developer!"/>
 </div>
-    
+  
 ##
 
 <img align = "center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY0dTlsY2E2eXkzZWluaHB4dzZkOXhmenFmeDZmOGdrYjVtZDN5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jQnqvoABIwlM6039F8/giphy.webp" width ="25"><b> |About Me|</b></img>
@@ -23,24 +23,32 @@
 
 ##
 
-<img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> |Skills|</b></img>
+  <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> |Skills|</b></img>
 
-- **Languages**:
-  <div align= "left">
-    <img alt="Static Badge" src="https://img.shields.io/badge/C%23-royalblue?style=flat-square&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/GDScript-dodgerblue?style=flat-square&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E87D0D?style=flat-square&logo=html5&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/css-royalblue?style=flat-square&logo=css3&logoColor=white)">
-  </div>
+  -  **Languages**:
+    <div align= "left">
+      <img alt="Static Badge" src="https://img.shields.io/badge/C%23-royalblue?style=flat-square&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/GDScript-dodgerblue?style=flat-square&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E87D0D?style=flat-square&logo=html5&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/css-royalblue?style=flat-square&logo=css3&logoColor=white)">
+    </div>
+  
+  -  **Software Tools**:
+    <div align= "">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Unity-dimgray?style=flat-square&logo=unity&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Godot-dodgerblue?style=flat-square&logo=godotengine&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Aseprite-white?style=flat-square&logo=aseprite&logoColor=black">
+      <img alt="Static Badge" src="https://img.shields.io/badge/PixelStudio-hotpink?style=flat-square&logoColor=black">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Blender-%23E87D0D?style=flat-square&logo=blender&logoColor=white">
+    </div>
 
-- **Software Tools**:
-  <div>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Unity-dimgray?style=flat-square&logo=unity&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Godot-dodgerblue?style=flat-square&logo=godotengine&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Aseprite-white?style=flat-square&logo=aseprite&logoColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/PixelStudio-hotpink?style=flat-square&logoColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Blender-%23E87D0D?style=flat-square&logo=blender&logoColor=white">
-  </div>
+##
+
+<img align= "center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b>|Stats|</b></img>
+<div>
+  <img width= "335" src="https://github-readme-stats.vercel.app/api?username=huthien&show_icons=true&theme=vision-friendly-dark"/> 
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=huthien&theme=highcontrast&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact"/> 
+</div>
 
 ##
   
@@ -54,6 +62,9 @@
     </li>
   </ul>
    
+
+
+
 
 <!--
 **Huthien/Hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
