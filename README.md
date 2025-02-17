@@ -16,10 +16,10 @@
     <p>I enjoy playing and making games as a hobby, and i made little projects along the way! 👾</p>
   </li>
   <li>
-    <p align= "left">Currently learning GDScript ⭐</p>
+    <p align= "left">Currently learning C# 🌟</p>
   </li>
   <li>
-    <p align= "left">Currently learning C# 🌟</p>
+    <p align= "left">Currently learning GDScript ⭐</p>
   </li>
   <li>
     <p align= "left">Mi Itch.io page: <a href= "https://huthien.itch.io" target= "_blank"><img align="center" alt="Static Badge" src="https://img.shields.io/badge/Huthien-%23FA5C5C?style=flat-square&logo=itchdotio&logoColor=white"></a></p>
