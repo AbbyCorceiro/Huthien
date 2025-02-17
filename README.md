@@ -2,7 +2,7 @@
 
 <h1 align = "center">𝙷𝚒! 𝙸'𝚖 𝙷𝚞</h1>
 <div align="center" width="50">
-  <image align= "center" src="https://github.com/Huthien/Hu/blob/main/custom/gamedev.gif?raw=true" alt= "I'm a game developer!"/>
+  <image align= "center" src="https://github.com/user-attachments/assets/aa9fc9d3-e631-45a7-b269-287d185098c5" alt= "I'm a game developer!"/>
 </div>
   
 ##
@@ -10,8 +10,10 @@
 <img align = "center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY0dTlsY2E2eXkzZWluaHB4dzZkOXhmenFmeDZmOGdrYjVtZDN5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jQnqvoABIwlM6039F8/giphy.webp" width ="25"><b> |About Me|</b></img>
 <ul>
   <li>
-    <p align = "left">I'm a selftaught programmer willing to extend my knowledge and share it with the world. I enjoy playing and making games as a hobby, and i made little projects along the way! 👾
-  </p>
+    <p align = "left">I'm a selftaught programmer willing to extend my knowledge and share it with the world. </p>
+  </li>
+  <li>
+    <p>I enjoy playing and making games as a hobby, and i made little projects along the way! 👾</p>
   </li>
   <li>
     <p align= "left">Currently learning GDScript ⭐</p>
@@ -38,6 +40,7 @@
   
   -  **Software Tools**:
     <div align= "">
+      <img alt= "Static Badge" src="https://img.shields.io/badge/VisualStudio-white?style=flat-square&color=%239013FE">
       <img alt="Static Badge" src="https://img.shields.io/badge/Unity-dimgray?style=flat-square&logo=unity&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/Godot-dodgerblue?style=flat-square&logo=godotengine&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/Aseprite-white?style=flat-square&logo=aseprite&logoColor=black">
@@ -80,8 +83,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...![gamedev](https://github.com/user-attachments/assets/a0dc806b-7320-4c1a-ab36-b61aea721db2)
-![gamedev](https://github.com/user-attachments/assets/cddf1c93-d936-47f1-b9e2-165fa22b3af9)
+- 😄 Pronouns: ...
 
 - ⚡ Fun fact: ...
 -->
+
