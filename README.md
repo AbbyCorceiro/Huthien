@@ -10,14 +10,14 @@
 <img align = "center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY0dTlsY2E2eXkzZWluaHB4dzZkOXhmenFmeDZmOGdrYjVtZDN5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jQnqvoABIwlM6039F8/giphy.webp" width ="25"><b> |About Me|</b></img>
 <ul>
   <li>
-    <p align = "left">I'm a selftaught game developer who enjoys playing and making games. I made little projects and im still working in new ones! 👾
+    <p align = "left">I'm a selftaught programmer willing to extend my knowledge and share it with the world. I enjoy playing and making games as a hobby, and i made little projects along the way! 👾
   </p>
   </li>
   <li>
     <p align= "left">Currently learning GDScript ⭐</p>
   </li>
   <li>
-    <p align= "left">Currently learning C++ 🌟</p>
+    <p align= "left">Currently learning C# 🌟</p>
   </li>
   <li>
     <p align= "left">Mi Itch.io page: <a href= "https://huthien.itch.io" target= "_blank"><img align="center" alt="Static Badge" src="https://img.shields.io/badge/Huthien-%23FA5C5C?style=flat-square&logo=itchdotio&logoColor=white"></a></p>
