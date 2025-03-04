@@ -16,7 +16,7 @@
     <p>I enjoy playing and making games as a hobby, and i made little projects along the way! 👾</p>
   </li>
   <li>
-    <p align= "left">Currently learning C# 🌟</p>
+    <p align= "left">Currently learning C# / .Net🌟</p>
   </li>
   <li>
     <p align= "left">Currently learning GDScript ⭐</p>
