@@ -1,6 +1,6 @@
 ### 
 
-<h1 align = "center">𝙷𝚒! 𝙸'𝚖 𝙷𝚞</h1>
+<h1 align = "center">𝙷𝚒! 𝙸'𝚖 Abby</h1>
 <div align="center" width="50">
   <image align= "center" src="https://github.com/user-attachments/assets/aa9fc9d3-e631-45a7-b269-287d185098c5" alt= "I'm a game developer!"/>
 </div>
@@ -17,9 +17,6 @@
   </li>
   <li>
     <p align= "left">Currently learning C# / .Net🌟</p>
-  </li>
-  <li>
-    <p align= "left">Currently learning GDScript ⭐</p>
   </li>
 </ul>
 
@@ -42,7 +39,6 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/Godot-dodgerblue?style=flat-square&logo=godotengine&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/Aseprite-white?style=flat-square&logo=aseprite&logoColor=black">
       <img alt="Static Badge" src="https://img.shields.io/badge/PixelStudio-hotpink?style=flat-square&logoColor=black">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Blender-%23E87D0D?style=flat-square&logo=blender&logoColor=white">
     </div>
 
 ##
