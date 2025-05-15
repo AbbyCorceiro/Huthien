@@ -16,7 +16,10 @@
     <p>I enjoy playing and making games as a hobby, and i made little projects along the way! 👾</p>
   </li>
   <li>
-    <p align= "left">Currently learning C# / .Net🌟</p>
+    <p align= "left">Currently learning C# / .Net 🌟</p>
+  </li>
+  <li>
+    <p align= "left">Currently learning SQL Server and Database Management 💻</p>
   </li>
 </ul>
 
@@ -27,14 +30,17 @@
   -  **Languages**:
     <div align= "left">
       <img alt="Static Badge" src="https://img.shields.io/badge/C%23-royalblue?style=flat-square&logoColor=white">
-      <img alt="Static Badge" src="https://img.shields.io/badge/GDScript-dodgerblue?style=flat-square&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/.NET-%23512BD4?style=flat-square">
+      <img alt="Static Badge" src="https://img.shields.io/badge/XAML-%23005FAD?style=flat-square">
       <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E87D0D?style=flat-square&logo=html5&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/css-royalblue?style=flat-square&logo=css3&logoColor=white)">
+      <img alt="Static Badge" src="https://img.shields.io/badge/GDScript-dodgerblue?style=flat-square&logoColor=white">
     </div>
   
   -  **Software Tools**:
     <div align= "">
       <img alt= "Static Badge" src="https://img.shields.io/badge/VisualStudio-white?style=flat-square&color=%239013FE">
+      <img alt= "Static Badge" src="https://img.shields.io/badge/SQL%20Server-%234479A1?style=flat-square">
       <img alt="Static Badge" src="https://img.shields.io/badge/Unity-dimgray?style=flat-square&logo=unity&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/Godot-dodgerblue?style=flat-square&logo=godotengine&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/Aseprite-white?style=flat-square&logo=aseprite&logoColor=black">
